@@ -19,8 +19,7 @@ for i in numbers:
 print("Sum of all elements in the list is:", total)
 ```
 ## Output
-```
-Sum of all elements in the list is: 150
-```
+<img width="273" height="92" alt="image" src="https://github.com/user-attachments/assets/8455a0fb-d9c1-4488-bcac-66b839a8aef4" />
+
 ## Result
 the output is verified
