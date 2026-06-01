@@ -24,9 +24,7 @@ else:
     print("8 does not exist in the tuple")
 ```
 ## Output
-```
-'n' exists in the tuple
-8 exists in the tuple
-```
+<img width="393" height="122" alt="image" src="https://github.com/user-attachments/assets/b58ff994-4dfc-4015-8858-f201d61cc0e5" />
+
 ## Result
 the output is verified
