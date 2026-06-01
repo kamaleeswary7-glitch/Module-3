@@ -26,9 +26,7 @@ else:
     print(text, "is not a palindrome")
 ```
 ## Output
-```
-google is not a palindrome
-```
+<img width="906" height="92" alt="image" src="https://github.com/user-attachments/assets/ddfab16b-be45-4d74-8b29-b2de59ea1084" />
 
 
 ## Result
