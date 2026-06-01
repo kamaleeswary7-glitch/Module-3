@@ -16,21 +16,15 @@ To write a Python program that filters out and returns all elements from a list 
 ## 🧾 Program
 ```
 import re
-
-words = ["apple", "banana", "grape", "mango", "kiwi"]
-
-result = []
-
-for word in words:
-    if not re.search("e", word):
-        result.append(word)
-
-print("Elements without 'e':", result)
+l=[]
+items = ['goal', 'new', 'user', 'sit', 'eat', 'dinner']
+for i in items:
+    if not re.search(r'e',i):
+        l.append(i)
+print(l)
 ```
 ## Output
-```
-Elements without 'e': ['banana', 'mango', 'kiwi']
-```
+<img width="513" height="202" alt="image" src="https://github.com/user-attachments/assets/7cfcea0a-99f1-48ee-8a27-d0f2f319849d" />
 
 ## Result
 the output is verified
